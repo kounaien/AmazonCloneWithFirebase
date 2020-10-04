@@ -42,7 +42,7 @@ function Header() {
               className="header__option__lineTwo 
             header__basket__count"
             >
-              {basket?.kength}
+              {basket?.length}
             </span>
           </div>
         </Link>
