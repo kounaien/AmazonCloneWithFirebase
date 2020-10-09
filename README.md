@@ -19,3 +19,5 @@ yet continue to code
 - payment in test
 
 - currency format
+
+- use stripe payment function and use api for post request

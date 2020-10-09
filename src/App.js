@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import "./App.css";
 import Header from "./Header";
+import Orders from "./Orders";
 import Home from "./Home";
 import Payment from "./Payment";
 import Checkout from "./Checkout";
@@ -45,6 +46,9 @@ function App() {
         <Header />
 
         <Switch>
+          <Route path="/orders">
+            <Orders />
+          </Route>
           <Route path="/login">
             <Login />
           </Route>
