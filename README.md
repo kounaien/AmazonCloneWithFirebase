@@ -1,12 +1,12 @@
 # AMAZON CLONE
 
-firebase to deploy
+firebase hosting to deploy
 
 ## url
 
 https://clone-7c2ed.web.app/
 
-yet continue to code
+almost done
 
 ## function
 
